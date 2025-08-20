@@ -4,7 +4,7 @@
 
 สำหรับ setup docker 
 รูปแบบที่1 docker (ที่เดียวจบ)
-run => docker-compose up --build
+run => docker compose up --build
 
 --------------------------------------
 รูปแบบที่2 แบบธรรมดา (ไม่มี Makefile)
